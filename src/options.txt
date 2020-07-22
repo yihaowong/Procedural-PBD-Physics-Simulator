@@ -1,0 +1,8 @@
+[Note] Anything could be written in this txt, the program will filter useless words. Just don't write too much irrelevant or efficiency will drop. DON'T WRITE BLANK LINES it will crash.
+[Write Commands Below]
+-dispw 400
+-disph 400
+-mpbs 200
+-hfov 60
+-spp 2
+-bounce 3
