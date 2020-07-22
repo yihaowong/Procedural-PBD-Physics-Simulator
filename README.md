@@ -3,7 +3,9 @@ Instructor: James O'Brien
 
 # Implementer of This Project
 Wei Guo: wei.parker.guo.sg@gmail.com
+
 Kai Zhang
+
 Yihao Wang
 
 # References (Books & Used Libs Mainly)
